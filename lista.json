@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Tacos al Pastor",
+        "description": "Deliciosos tacos con carne de cerdo marinada en adobo, asada en un trompo vertical y servida con piña, cebolla y cilantro."
+    },
+    {
+        "title": "Sushi de Salmón",
+        "description": "Exquisitos rollos de sushi rellenos de salmón fresco, aguacate y pepino, acompañados de salsa de soya y wasabi."
+    },
+    {
+        "title": "Pizza Margherita",
+        "description": "Pizza clásica italiana con una capa de salsa de tomate, mozzarella fresca, albahaca y un toque de aceite de oliva."
+    },
+    {
+        "title": "Burgers Gourmet",
+        "description": "Hamburguesas hechas con carne de alta calidad, acompañadas de ingredientes frescos como lechuga, tomate y cebolla caramelizada."
+    },
+    {
+        "title": "Enchiladas Verdes",
+        "description": "Tortillas rellenas de pollo cubiertas con una salsa verde picante y servidas con crema, queso y cebolla."
+    },
+    {
+        "title": "Paella Valenciana",
+        "description": "Arroz cocido con mariscos, pollo, conejo y vegetales, sazonado con azafrán y otras especias para un sabor auténtico de la región de Valencia."
+    },
+    {
+        "title": "Falafel",
+        "description": "Croquetas de garbanzos especiados, fritas hasta dorarse, servidas en pan pita con hummus, tahini y vegetales frescos."
+    },
+    {
+        "title": "Ramen Tonkotsu",
+        "description": "Sopa de fideos japonesa con caldo de cerdo cocido a fuego lento, servido con chashu, huevo marinado y cebollín."
+    },
+    {
+        "title": "Empanadas de Queso",
+        "description": "Empanadas rellenas de una mezcla cremosa de quesos variados, cocidas hasta obtener una corteza dorada y crujiente."
+    },
+    {
+        "title": "Burrito de Carne Asada",
+        "description": "Tortilla de harina rellena de carne asada, frijoles, arroz, guacamole y salsa fresca, envuelta y lista para disfrutar."
+    },
+    {
+        "title": "Ceviche de Camarón",
+        "description": "Camarones marinados en jugo de limón y mezclados con tomate, cebolla, cilantro y aguacate para una refrescante ensalada de mariscos."
+    },
+    {
+        "title": "Tarta de Limón",
+        "description": "Tarta de corteza crujiente con relleno de crema de limón, coronada con un merengue dorado y ligero."
+    },
+    {
+        "title": "Sopa de Tortilla",
+        "description": "Sopa mexicana a base de caldo de tomate con tiras de tortilla frita, aguacate, crema, queso y chiles secos."
+    },
+    {
+        "title": "Canelones de Ricotta",
+        "description": "Pasta rellena de ricotta y espinacas, bañada en salsa de tomate y gratinada con queso parmesano al horno."
+    },
+    {
+        "title": "Tiramisu",
+        "description": "Postre italiano en capas con café, mascarpone y cacao en polvo, servido frío para un final perfecto a cualquier comida."
+    },
+    {
+        "title": "Kebab de Cordero",
+        "description": "Brochetas de cordero marinadas en especias mediterráneas, asadas a la perfección y servidas con salsa de yogur y vegetales."
+    },
+    {
+        "title": "Croquetas de Jamón",
+        "description": "Pequeñas croquetas fritas rellenas de una mezcla de jamón serrano y bechamel, con una textura crujiente por fuera y cremosa por dentro."
+    },
+    {
+        "title": "Shakshuka",
+        "description": "Plato del Medio Oriente con huevos escalfados en una salsa de tomate especiada, servida con pan para mojar."
+    },
+    {
+        "title": "Moussaka",
+        "description": "Plato griego a base de capas de berenjena, carne de cordero y salsa bechamel, horneado hasta obtener una textura suave y deliciosa."
+    },
+    {
+        "title": "Crêpes Suzette",
+        "description": "Delicadas crepas francesas servidas con una salsa de naranja y licor, flambadas para un toque especial."
+    },
+    {
+        "title": "Goulash Húngaro",
+        "description": "Estofado de carne de res cocido lentamente con pimientos, cebollas y paprika, servido con pan o pasta para absorber los jugos."
+    },
+    {
+        "title": "Samosas de Vegetales",
+        "description": "Empanadillas fritas rellenas de una mezcla especiada de vegetales, perfectas como aperitivo o snack."
+    },
+    {
+        "title": "Maki de Atún",
+        "description": "Rollos de sushi con atún fresco, aguacate y arroz, acompañados de salsa de soya y jengibre encurtido."
+    }
+]
